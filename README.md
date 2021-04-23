@@ -1,5 +1,5 @@
 
-[![Discord](./Images/wearemovingimage.png)](https://discord.gg/polus)
+[![Discord](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechgame.pl%2Fdiscord-070420-al-oszustwo-scam-hakerzy&psig=AOvVaw1Fdyhfnz7xpG0jba2PanCx&ust=1619248097189000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiZ6a_nk_ACFQAAAAAdAAAAABAD)](https://discord.gg/sreZhcUN)
 
 ![Everyone](./Images/Everything.png)
 Mod do gry "Among Us" dodający kilka klas, modyfikacji i ustawień gry
@@ -9,7 +9,7 @@ Mod do gry "Among Us" dodający kilka klas, modyfikacji i ustawień gry
 
 **Klasy Crewmate**
 - [Mayor](#mayor)
-- [Lovers (Kluska i Abi)](#Lovers (Kluska i Abi))
+- [Lovers (Kluska i Abi)](#lovers-kluska-i-abi)
 - [Sheriff](#sheriff)
 - [Engineer](#engineer)
 - [Swapper](#swapper)
