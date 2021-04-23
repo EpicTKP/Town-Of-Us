@@ -231,21 +231,21 @@ Jednak, mogą też wygrać dla swojej obecnej drużyny, dlatego Loverzy, nie zna
 
 -----------------------
 ## Sheriff
-### **Team: Crewmates**
-The Sheriff is a Crewmate that has the ability to eliminate the Impostors using their kill button.\
-However, if they kill a Crewmate or a Neutral player they can't kill, they instead die themselves.
+### **Drużyna: Crewmates**
+Sheriff to crewmate, który ma zdolność zabicia Impostora, używając, guzika `Kill`.\
+Jednak, jeśli zabiją crewmate, albo neutralnego, nie mogą ich zabić, i sami umierają (Sheriff).
 
-### Game Options
-| Name | Description | Type | Default |
+### Opcje klasy
+| Nazwa | Opis | Typ | Domyślne |
 |----------|:-------------:|:------:|:------:|
-| Sheriff | The percentage probability of the Sheriff appearing | Percentage | 0% |
-| Show Sheriff | Whether everybody can see who the Sheriff is | Toggle | False |
-| Sheriff Miskill Kills Crewmate | Whether the other player is killed if the Sheriff Misfires | Toggle | False |
-| Sheriff Kills Jester | Whether the Sheriff is able to kill the Jester | Toggle | False |
-| Sheriff Kills The Glitch | Whether the Sheriff is able to kill The Glitch | Toggle | False |
-| Sheriff Kills Arsonist | Whether the Sheriff is able to kill the Arsonist | Toggle | False |
-| Sheriff Kill Cooldown | The cooldown on the Sheriff's kill button | Time | 25s |
-| Sheriff can report who they've killed | Whether the Sheriff is able to report their own kills | Toggle | True |
+| Sheriff | Możliwość pojawienia się Sheriff | Procent | 0% |
+| Ujawnij Sheriff | Pokazuj każdemu, kto jest Sheriff | Przełącznik | False |
+| Błąd Sheriff Zabija Crewmate | Jak Sheriff zabija crewmate przez pomyłke, też umiera crewmate | Przełącznik | False |
+| Sheriff może zabić Jester | Sheriff może zabić Jestera | Przełącznik | False |
+| Sheriff może zabić The Glitch | Sheriff może zabić Glitch | Przełącznik | False |
+| Sheriff może zabić Arsonist | Sheriff może zabić Arsonist | Przełącznik | False |
+| Sheriff Kill Cooldown | Cooldown na zabijanie Sheriff | Czas | 25s |
+| Sheriff mogą zreportować ciało zabitego | Sheriff może zreportować osoby, które zabił | Przełącznik | True |
 
 -----------------------
 ## Engineer
