@@ -163,12 +163,12 @@ Mod do gry "Among Us" dodający kilka klas, modyfikacji i ustawień gry
 - Steam
 
 ## Poradniki do instalacji (Steam)
+
+**NIE ROB KROKOW OD 2 DO 4 JESLI UZYWASZ CRACKA, PONIEWAZ DOPIERO CO POBIERALES I PRAWDOPODOBNIE JEST NA 100% ZGODNE, TYLKO ZROB JESLI MASZ LEGITNE PLIKI GRY, ŻEBY SIĘ POTEM NIE MĘCZYĆ Z BŁĘDAMI 
+
 **1. Utwórz folder na `Pulpit`, nazywający się `Town of Us`.**\
 Ten folder może być stworzony gdziekolwiek, i moze sie nazywać, jak chcesz, tak długo, jak łatwo jest go znaleźć.\
 \
-
-**NIE ROB KROKOW OD 2 DO 4 JESLI UZYWASZ CRACKA, PONIEWAZ DOPIERO CO POBIERALES I PRAWDOPODOBNIE JEST NA 100% ZGODNE, TYLKO ZROB JESLI MASZ LEGITNE PLIKI GRY, ŻEBY SIĘ POTEM NIE MĘCZYĆ Z BŁĘDAMI
-
 **2. Open Steam, go to `Library` and locate Among Us. Right click on it, select `Properties...`. Then, under `Local Files`, click on `Browse...`.**\
 This opens the folder containing the Among Us application.\
 \
