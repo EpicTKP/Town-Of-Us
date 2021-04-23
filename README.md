@@ -206,28 +206,28 @@ Mayor ma bank głosów, który jest liczbą, ile razy może zagłosować.\
 Mogą się wstrzymać przed głosowaniem, dodając ten głos do banku głosów.\
 Tak długo, jak nie zagłosowali wszyscy, Mayor może głosować z banku głosów, tyle razy, ile chce.
 
-### Game Options
+### Opcje klasy
 | Nazwa | Opis | Typ | Domyślne |
 |----------|:-------------:|:------:|:------:|
 | Mayor | Szansa na pojawienie się Mayora | Procent | 0% |
 | Startowy Mayor Bank Głosów | Początkowa ilość głosów w banku, na początku gry | Numer | 1 |
-| Mayor głosuje anonimowo | Whether the Mayor's extra votes will show up anonymously | Przełącznik | False |
+| Mayor głosuje anonimowo | Wszystkie dodatkowe głosy Mayora będą sie pojawiać jako anonimowe | Przełącznik | False |
 
 -----------------------
-## Lovers
-### **Team: Crewmates or Impostors**
-The Lovers are two players who are linked together.\
-These two players get picked randomly between Crewmates and Impostors.\
-They gain the primary objective to stay alive together.\
-If they are both among the last 3 players, they win.\
-In order to so, they gain access to a private chat, only visible by them in between meetings.\
-However, they can also win with their respective team, hence why the Lovers do not know the role of the other lover.
+## Lovers (Kluska i Abi)
+### **Drużyna: Crewmates or Impostors**
+Lovers to dwaj gracze, którzy są związani ze sobą.\
+Obaj gracze losowo trafiają do Crewmates albo Impostors.\
+Ich celem jest wspólne przeżycie.\
+Jeśli obaj przeżyją do ostatniej trójki, wygrywają.\
+Jako ułatwienie, obaj dostają prywatny chat, tylko widoczny dla nich.\
+Jednak, mogą też wygrać dla swojej obecnej drużyny, dlatego Loverzy, nie znają roli drugiego Lovera.
 
-### Game Options
-| Name | Description | Type | Default |
+### Opcje klasy
+| Nazwa | Opis | Typ | Domyślne |
 |----------|:-------------:|:------:|:------:|
-| Lovers | The percentage probability of the Lovers appearing | Percentage | 0% |
-| Both Lovers Die | Whether the other Lover automatically dies if the other does | Toggle | True |
+| Lovers | Szansa na pojawienie się Lovers | Procent | 0% |
+| Obaj Loverzy umierają | Jeden Lover umiera, to też drugi umiera | Przełącznik | True |
 
 -----------------------
 ## Sheriff
