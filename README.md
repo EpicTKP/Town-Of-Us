@@ -9,7 +9,7 @@ Mod do gry "Among Us" dodający kilka klas, modyfikacji i ustawień gry
 
 **Klasy Crewmate**
 - [Mayor](#mayor)
-- [Lovers](#lovers)
+- [Lovers (Kluska i Abi)](#Lovers (Kluska i Abi))
 - [Sheriff](#sheriff)
 - [Engineer](#engineer)
 - [Swapper](#swapper)
