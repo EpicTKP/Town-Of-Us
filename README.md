@@ -2,12 +2,12 @@
 [![Discord](./Images/wearemovingimage.png)](https://discord.gg/polus)
 
 ![Everyone](./Images/Everything.png)
-An Among Us mod that adds a bunch of roles, modifiers and game settings
+Mod do gry "Among Us" dodający kilka klas, modyfikacji i ustawień gry
 
 
 
 
-**Crewmate Roles**
+**Klasy Crewmate**
 - [Mayor](#mayor)
 - [Lovers](#lovers)
 - [Sheriff](#sheriff)
@@ -22,21 +22,21 @@ An Among Us mod that adds a bunch of roles, modifiers and game settings
 - [Snitch](#snitch)
 - [Altruist](#altruist)
 
-**Neutral Roles**
+**Neutralne Klasy**
 - [Jester](#jester)
 - [Shifter](#shifter)
 - [The Glitch](#the-glitch)
 - [Executioner](#executioner)
 - [Arsonist](#arsonist)
 
-**Impostor Roles**
+**Klasy Impostora**
 - [Janitor](#janitor)
 - [Morphling](#morphling)
 - [Camouflager](#camouflager)
 - [Miner](#miner)
 - [Swooper](#swooper)
 
-**Modifiers**
+**Modyfikacje**
 - [Torch](#torch)
 - [Diseased](#diseased)
 - [Flash](#flash)
@@ -48,22 +48,22 @@ An Among Us mod that adds a bunch of roles, modifiers and game settings
 
 
 -----------------------
-# Releases
-| Among Us - Version| Mod Version | Link |
+# Wydania modyfikacji (pobierz odpowiednią to swojej wersji)
+| Among Us - Wersja| Wersja moda | Link |
 |----------|-------------|-----------------|
-| 2021.4.12s & 2021.4.14s | v2.0.2 | [Download](https://github.com/slushiegoose/Town-Of-Us/releases/download/v2.0.2/TownOfUs-v2.0.2.zip) |
-| 2021.4.12s | v2.0.1 | [Download](https://github.com/slushiegoose/Town-Of-Us/releases/download/v2.0.1/TownOfUs-v2.0.1.zip) |
-| 2021.3.31.3s | v2.0.0 | [Download](https://github.com/slushiegoose/Town-Of-Us/releases/download/v2.0.0/TownOfUs-v2.0.0.zip) |
-| 2021.3.5s | v1.2.0 | [Download](https://github.com/slushiegoose/Town-Of-Us/releases/download/v1.2.0/TownOfUs-v1.2.0.zip) |
-| 2021.3.5s | v1.1.0 | [Download](https://github.com/slushiegoose/Town-Of-Us/releases/download/v1.1.0/TownOfUs-v1.1.0-2021.3.5s.zip) |
-| 2020.12.19s | v1.1.0 | [Download](https://github.com/slushiegoose/Town-Of-Us/releases/download/v1.1.0/TownOfUs-v1.1.0-2020.12.9s.zip) |
-| 2020.12.19s | v1.0.3 | [Download](https://github.com/slushiegoose/Town-Of-Us/releases/download/v1.0.3/TownOfUs-v1.0.3.zip) |
-| 2020.12.19s | v1.0.2 | [Download](https://github.com/slushiegoose/Town-Of-Us/releases/download/v1.0.2/TownOfUs-v1.0.2.zip) |
-| 2020.12.19s | v1.0.1 | [Download](https://github.com/slushiegoose/Town-Of-Us/releases/download/v1.0.1/TownOfUs-v1.0.1.zip) |
-| 2020.12.19s | v1.0.0 | [Download](https://github.com/slushiegoose/Town-Of-Us/releases/download/v1.0.0/TownOfUs-v1.0.0.zip) |
+| 2021.4.12s & 2021.4.14s | v2.0.2 | [Pobierz](https://github.com/slushiegoose/Town-Of-Us/releases/download/v2.0.2/TownOfUs-v2.0.2.zip) |
+| 2021.4.12s | v2.0.1 | [Pobierz](https://github.com/slushiegoose/Town-Of-Us/releases/download/v2.0.1/TownOfUs-v2.0.1.zip) |
+| 2021.3.31.3s | v2.0.0 | [Pobierz](https://github.com/slushiegoose/Town-Of-Us/releases/download/v2.0.0/TownOfUs-v2.0.0.zip) |
+| 2021.3.5s | v1.2.0 | [Pobierz](https://github.com/slushiegoose/Town-Of-Us/releases/download/v1.2.0/TownOfUs-v1.2.0.zip) |
+| 2021.3.5s | v1.1.0 | [Pobierz](https://github.com/slushiegoose/Town-Of-Us/releases/download/v1.1.0/TownOfUs-v1.1.0-2021.3.5s.zip) |
+| 2020.12.19s | v1.1.0 | [Pobierz](https://github.com/slushiegoose/Town-Of-Us/releases/download/v1.1.0/TownOfUs-v1.1.0-2020.12.9s.zip) |
+| 2020.12.19s | v1.0.3 | [Pobierz](https://github.com/slushiegoose/Town-Of-Us/releases/download/v1.0.3/TownOfUs-v1.0.3.zip) |
+| 2020.12.19s | v1.0.2 | [Pobierz](https://github.com/slushiegoose/Town-Of-Us/releases/download/v1.0.2/TownOfUs-v1.0.2.zip) |
+| 2020.12.19s | v1.0.1 | [Pobierz](https://github.com/slushiegoose/Town-Of-Us/releases/download/v1.0.1/TownOfUs-v1.0.1.zip) |
+| 2020.12.19s | v1.0.0 | [Pobierz](https://github.com/slushiegoose/Town-Of-Us/releases/download/v1.0.0/TownOfUs-v1.0.0.zip) |
 
 <details>
-  <summary> Changelog </summary>
+  <summary> Changelog (nie bede tu tlumaczyl narazie, jak chcecie zebym przetlumaczyl, to napiszcie dc: Koper#1337 </summary>
 
  <details>
   <summary> v2.0.2 </summary>
@@ -157,15 +157,18 @@ An Among Us mod that adds a bunch of roles, modifiers and game settings
 
 
 -----------------------
-# Installation
-## Requirements 
-- Among Us
+# Instalacja
+## Wymagania
+- Among Us (działa z crackiem :))
 - Steam
 
-## Installation Guide (Steam)
-**1. Create a new folder on `Desktop`, called `Town of Us`.**\
-This can be created anywhere and be named anything, as long as this folder is easy to locate.\
+## Poradniki do instalacji (Steam)
+**1. Utwórz folder na `Pulpit`, nazywający się `Town of Us`.**\
+Ten folder może być stworzony gdziekolwiek, i moze sie nazywać, jak chcesz, tak długo, jak łatwo jest go znaleźć.\
 \
+
+**NIE ROB KROKOW OD 2 DO 4 JESLI UZYWASZ CRACKA, PONIEWAZ DOPIERO CO POBIERALES I PRAWDOPODOBNIE JEST NA 100% ZGODNE, TYLKO ZROB JESLI MASZ LEGITNE PLIKI GRY, ŻEBY SIĘ POTEM NIE MĘCZYĆ Z BŁĘDAMI
+
 **2. Open Steam, go to `Library` and locate Among Us. Right click on it, select `Properties...`. Then, under `Local Files`, click on `Browse...`.**\
 This opens the folder containing the Among Us application.\
 \
