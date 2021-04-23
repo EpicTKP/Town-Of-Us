@@ -164,54 +164,54 @@ Mod do gry "Among Us" dodający kilka klas, modyfikacji i ustawień gry
 
 ## Poradniki do instalacji (Steam)
 
-*NIE ROB KROKOW OD 2 DO 4 JESLI UZYWASZ CRACKA, PONIEWAZ DOPIERO CO POBIERALES I PRAWDOPODOBNIE JEST NA 100% ZGODNE, TYLKO ZROB JESLI MASZ LEGITNE PLIKI GRY, ŻEBY SIĘ POTEM NIE MĘCZYĆ Z BŁĘDAMI 
+NIE ROB KROKOW OD 2 DO 4 JESLI UZYWASZ CRACKA, PONIEWAZ DOPIERO CO POBIERALES I PRAWDOPODOBNIE JEST NA 100% ZGODNE, TYLKO ZROB JESLI MASZ LEGITNE PLIKI GRY, ŻEBY SIĘ POTEM NIE MĘCZYĆ Z BŁĘDAMI 
 
 **1. Utwórz folder na `Pulpit`, nazywający się `Town of Us`.**\
 Ten folder może być stworzony gdziekolwiek, i moze sie nazywać, jak chcesz, tak długo, jak łatwo jest go znaleźć.\
 \
-**2. Open Steam, go to `Library` and locate Among Us. Right click on it, select `Properties...`. Then, under `Local Files`, click on `Browse...`.**\
-This opens the folder containing the Among Us application.\
+**2. Otwórz Steama, i przejdź do `Biblioteka` i znajdź `Among Us`. Kliknij prawym na gre, i wybierz `Właściwości...`. Potem, pod `Pliki Lokalne`, wciśnij na `Przeglądaj...`.**\
+To otwiera folder zawierający Among Us'a.\
 \
-**3. Delete everything in the currently opened folder.**\
-Don't worry, this will not delete the game. This simply verifies the Among Us folder being entirely clean.\
+**3. Usuń wszystko co jest w tym folderze.**\
+Nie martw się, to nie usunie gry (twoich statystyk, zwierzątków itd.). Robimy to po to, żeby sprawdzić pliki Among Us, żeby były nowe, i nie było problemów przy instalacji moda.\
 \
-**4. On Steam, locate Among Us once again. Right click on it, select `Properties...`. Now, under `Local Files`, click on `Verify integrity of game files...`.**\
-This restores all of the game files as a fresh installation.\
+**4. Teraz na steamie, znajdź Among Us'a znowu. Kliknij prawym na gre, wybierz `Właściwości...`. Teraz, pod `Pliki Lokalne`, wybierz `Sprawdź spójność plików gry...`.**\
+Teraz steam zweryfikuje pliki gry, i będziesz mieć świeżą instalacje Among Us (PAMIĘTAJ NIE RÓB TEGO JAK MASZ CRACKA, BO NIE MOZESZ NAWET).\
 \
-**5. Copy all of the files from the `Among Us` folder to the newly created folder.**\
+**5. Skopiuj wszystkie pliki z folderu `Among Us` do stworzonego folderu `Town Of Us`.**\
 \
-**6. [Download](#releases) the Town of Us version corresponding to the installed Among Us version.**\
+**6. [Pobierz](#releases) wersje moda Town Of Us, który pasuje do twojej obecnej wersji Among Us (zwwykle najnowsza, chyba ze grasz na starszej wersji).**\
 \
-**7. Locate the downloaded `.zip` file, and move it to the `Town of Us` folder.**\
-Usually, this can be found in the `Downloads` folder.\
+**7. Znajdź pobrany plik `.zip`, I przenieś go do folderu `Town of Us`.**\
+Ten plik powinien być w folderze `Pobrane`.\
 \
-**8. Right click on the `.zip` file, and click on `7-Zip`. Then choose `Extract Here`.**\
-Something different might appear depending on the file manager being used. Make sure the folder gets extracted in the `Town of Us` folder, in the same location as the Among Us application. It should look similar to the picture below.\
+**8. Wciśnij prawym na plik `.zip`, i wciśnij `7-Zip`. Potem wybierz `Wypakuj Tutaj`. (Jeśli używasz winrara, zrób to samo tylko nie będziesz miał guzika 7-Zip, tylko musisz zjechać niżej i będziesz miał `Wypakuj Tutaj`.**\
+Upewnij się, że plik został rozpakowany w folderze `Town Of Us`, i że też tam jest aplikacja Among Us. Powinno to wyglądać podobnie jak na zdjęciu poniżej.\
 \
-**9. Launch the Among Us application that's inside, and start playing Town of Us!**\
-A first launch may take up to 5 minutes, so be patient if it doesn't launch immediately.<br/>
+**9. Uruchom Among Us, w folderze `Town Of Us`, i zacznij grać na modach!**\
+Pierwsze uruchomienie może zająć nawet 5 minut, więc bądź cierpliwy, jak się nie włączy od razu.<br/>
 <br/>
 ![Install](https://i.imgur.com/pvBAyZN.png)
 <br/>
-## Issues
-If you have issues installing Town of Us, you can join our [Discord](https://discord.gg/bYSaT74KzT) to receive help.
+## Problemy
+Jeśli masz problemy możesz się skontaktować ze mną przez [Discord: Koper#1337](https://discord.gg/sreZhcUN) by otrzymać pomoc.
 
 -----------------------
-# Roles
-# Crewmate Roles
+# Klasy
+# Klasy Crewmate
 ## Mayor
-### **Team: Crewmates**
-The Mayor is a Crewmate that can vote multiple times.\
-The Mayor has a Vote Bank, which is the number of times they can vote.\
-They have the option to abstain their vote during a meeting, adding that vote to the Vote Bank.\
-As long as not everyone has voted, the Mayor can use as many votes from their Vote Bank as they please.
+### **Drużyna: Crewmates**
+Mayor może głosować kilka razy.\
+Mayor ma bank głosów, który jest liczbą, ile razy może zagłosować.\
+Mogą się wstrzymać przed głosowaniem, dodając ten głos do banku głosów.\
+Tak długo, jak nie zagłosowali wszyscy, Mayor może głosować z banku głosów, tyle razy, ile chce.
 
 ### Game Options
-| Name | Description | Type | Default |
+| Nazwa | Opis | Typ | Domyślne |
 |----------|:-------------:|:------:|:------:|
-| Mayor | The percentage probability of the Mayor appearing | Percentage | 0% |
-| Initial Mayor Vote Bank | The number of votes in the Vote Bank at the start of a game | Number | 1 |
-| Mayor Votes Show Anonymous | Whether the Mayor's extra votes will show up anonymously | Toggle | False |
+| Mayor | Szansa na pojawienie się Mayora | Procent | 0% |
+| Startowy Mayor Bank Głosów | Początkowa ilość głosów w banku, na początku gry | Numer | 1 |
+| Mayor głosuje anonimowo | Whether the Mayor's extra votes will show up anonymously | Przełącznik | False |
 
 -----------------------
 ## Lovers
